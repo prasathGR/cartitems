@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The "Add to Cart" project demonstrates a fundamental feature of e-commerce applications—managing product selection and displaying their prices. Built with React.js, this project allows users to:
 
-Currently, two official plugins are available:
+*Add products to their cart.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*View selected products in the cart.
+
+*Check the total price of the selected items.
+
+This project serves as an excellent starting point for understanding the basics of state management and dynamic user interactions in React. 
