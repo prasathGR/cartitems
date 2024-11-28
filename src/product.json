@@ -1,0 +1,106 @@
+[
+    {
+        "id": 89,
+        "name":"chicken",
+        "amt":190,
+        "ftype":"pizza",
+        "pic":"https://img.freepik.com/free-photo/palatable-chicken-with-spices_23-2147765471.jpg?ga=GA1.1.797114195.1726668941&semt=ais_hybrid",
+        "latest":"no"
+        
+    },
+    {
+        "id":120,
+        "name":"momos",
+        "amt":60,
+        "ftype":"chat",
+        "pic":"https://img.freepik.com/free-photo/3d-delicious-food-tet-vietnamese-new-year_23-2151077381.jpg?ga=GA1.1.797114195.1726668941&semt=ais_hybrid",
+        "latest":"no"
+    },
+    {   "id":109,
+        "name":"fried rice",
+        "amt":120,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/free-photo/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food_1150-26584.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":111,
+        "name":"noodles",
+        "amt":100,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/free-photo/delicious-asian-noodles-concept_23-2148773773.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":121,
+        "name":"cutlet",
+        "amt":60,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/premium-photo/juicy-delicious-meat-cutlets-wooden-table-rustic-style_2829-13084.jpg?w=996"
+    },
+    {
+        "id":122,
+        "name":"smoothie",
+        "amt":70,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/free-photo/healthy-kiwi-smoothie-summer-recipe_53876-30503.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":123,
+        "name":"sawarma",
+        "amt":110,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/premium-photo/shawarma-rolled-lavash-moist-grilled-meat-with-onion-herbs-vegetables-wooden-black-surface_124865-2857.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":124,
+        "name":"doosa",
+        "amt":50,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/free-photo/delicious-indian-dosa-arrangement_23-2149086022.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":125,
+        "name":"idly",
+        "amt":30,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/premium-photo/podi-idli-is-quick-easy-snack-made-with-leftover-idly-served-with-sambar-coconut-chutney-selective-focus_466689-39677.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":126,
+        "name":"samosa",
+        "amt":25,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/free-photo/samsa-samosas-with-meat_658428-356.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":127,
+        "name":"tandori",
+        "amt":190,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/premium-photo/tandoori-chicken-is-indian-non-vegetarian-spicy-food_1184104-201.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":128,
+        "name":"chapatti",
+        "amt":40,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/free-photo/indian-tasty-roti-composition_23-2149073358.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":129,
+        "name":"parota",
+        "amt":60,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/free-photo/top-view-tasty-gutabs-thin-hotcakes-with-meat-inside-desk-dark-background-color-hotcake-dough-meal-oven-pie-cake_179666-46698.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":130,
+        "name":"sevai",
+        "amt":20,
+        "ftype":"food",
+        "pic":"https://img.freepik.com/free-photo/side-view-tuna-salad-with-sheese-quail-eggs-plate-black-plate_140725-11491.jpg?semt=ais_hybrid"
+    }
+    
+    
+    
+
+]

@@ -1,0 +1,36 @@
+.product{
+    width: 200px;
+    height: 300px;
+    border: 1px solid #ccc; 
+    background-color: rgb(252, 88, 88);
+    border-radius: 2em;
+    color: rgb(255, 255, 255);
+}
+.product .img{
+    width: 200px;
+    height: 200px;
+}
+.product .img img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.details{
+    padding: 10px;
+    gap: 10px;
+}
+.btn-remove{
+    background-color: rgb(200, 6, 6)!important;
+}
+
+.details button{
+    margin-top: 10px;
+    padding: 5px;
+    background-color: rgb(33, 101, 39);
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.details button:hover{
+    background-color: rgb(1, 68, 68);
+}
